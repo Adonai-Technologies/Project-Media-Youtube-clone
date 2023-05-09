@@ -1,0 +1,33 @@
+header {
+  gap: 150px;
+  height: 56px;
+  padding: 0 16px;
+  display: flexbox;
+  display: flex;
+}
+
+.searchbar-mic {
+  margin-left: 150px;
+}
+
+.search {
+  border-color: black;
+  padding: 18px;
+  padding-left: 180px;
+  padding-right: 80px;
+  padding-top: 35px;
+  border: 1px solid #8eaace6b;
+  box-shadow: #0a79ac;
+  border-radius: 25px;
+}
+
+.logo {
+  margin-right: 45px;
+}
+
+.video-bell {
+  display: flex;
+  gap: 30px;
+  margin-left: 100px;
+  margin-right: 0px;
+}
